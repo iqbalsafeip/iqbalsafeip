@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AISNET Mobile<br>🌱 I’m currently learning React Native<br>💬 Ask me about JavaScript
+🔭 I’m currently working on ITG Developer<br>🌱 I’m currently learning React Native<br>💬 Ask me about JavaScript
 
 
 ## 🌐 Socials:
